@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   header:
     title: A Large Scale Multitask Crowd Dataset for Comprehensive Human-Centric Analysis
     text: CrowdVerse
+    title_color: "{{ site.data.style.header-title-color | default: '#ff5733' }}"
+    text_color: "{{ site.data.style.header-text-color | default: '#33c5ff' }}"
     button: Tell Me More
     buttonlink: "#services"
 
