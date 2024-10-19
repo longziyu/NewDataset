@@ -2,6 +2,7 @@
 #highlight: "#54bfff"  # 高亮颜色
 #white: "#FFFFFF"      # 白色
 #black: "#000000"      # 黑色
+header-text-color: "#33c5ff"
 
 #Image Customization
 header-image: "../img/hp-bg.jpg"
