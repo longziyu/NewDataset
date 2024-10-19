@@ -4,5 +4,5 @@
 #black: "#000000"      # 黑色
 
 #Image Customization
-header-image: "../img/hp-bg.png"
+header-image: "../img/hp-bg.jpg"
 contact-image: "../img/map-image.png"
