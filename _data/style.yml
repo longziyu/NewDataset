@@ -1,10 +1,7 @@
 #Color Customization
-# Color Customization
-highlight: "#54bfff"  # 高亮颜色
-white: "#FFFFFF"      # 白色
-black: "#000000"      # 黑色
-header-title-color: "#ff5733"  # 自定义标题颜色
-header-text-color: "#33c5ff"   # 自定义文本颜色
+#highlight: "#54bfff"  # 高亮颜色
+#white: "#FFFFFF"      # 白色
+#black: "#000000"      # 黑色
 
 #Image Customization
 header-image: "../img/hp-bg.png"
