@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: A Large Scale Multitask Crowd Dataset for Comprehensive Human-Centric Analysis
-    text: CrowdVerse
+    title: "<span style='color: #ff5733;'>A Large Scale Multitask Crowd Dataset for Comprehensive Human-Centric Analysis</span>"
+    text: "<span style='color: #33c5ff;'>CrowdVerse</span>"
     button: Tell Me More
     buttonlink: "#services"
 
