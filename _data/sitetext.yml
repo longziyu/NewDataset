@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         image: assets/img/density.png
 
-  portfolio:
-    title: "Portfolio"
+  new_portfolio:
+    title: "NewPortfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: new_portfolio
     closebutton: "Close Project"
     projects:
       - title: "Project Threads"
