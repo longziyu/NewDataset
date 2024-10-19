@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: "<span style='color: #8B0000;'>A Large Scale Multitask Crowd Dataset for Comprehensive Human-Centric Analysis</span>"
-    text: "<span style='color: #8B0000;'>CrowdVerse</span>"
+    title: "<span style='color: ##FFFF00;'>A Large Scale Multitask Crowd Dataset for Comprehensive Human-Centric Analysis</span>"
+    text: "<span style='color: ##FFFF00;'>CrowdVerse</span>"
     button: Tell Me More
     buttonlink: "#services"
 
