@@ -21,13 +21,13 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "View"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         image: assets/img/view.png #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Environment"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         image: assets/img/environment.png
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Density"
         desc: "Your description here, full **Markdown** support"
         image: assets/img/density.png
 
