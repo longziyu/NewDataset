@@ -16,21 +16,12 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "View"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        image: assets/img/view.png #find more at https://fontawesome.com/icons
-      - title: "Environment"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        image: assets/img/environment.png
-      - title: "Density"
-        desc: "Your description here, full **Markdown** support"
-        image: assets/img/density.png
-
+services:
+  title: "Our Services"
+  text: "Discover our comprehensive services tailored to meet your needs."
+  section: services
+  content: "path/to/services.md"  # 指向你的 Markdown 文件
+  
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
