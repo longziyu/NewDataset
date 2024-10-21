@@ -16,11 +16,46 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-  services:
-    title: "Our Services"
-    text: "Discover our comprehensive services tailored to meet your needs."
-    section: services
-    content: "_portfolio/project1.md"
+services:
+  title: "Our Services"
+  text: "Discover our comprehensive services tailored to meet your needs."
+  section: services
+  layout:
+    - type: header
+      content: "View Analysis"
+    - type: text
+      content: |
+        Our **View Analysis** service helps you gain insights into visual data, enabling better decision-making and strategic planning. We use advanced tools to provide in-depth analysis of visual data trends and patterns. Whether you are looking for architectural insights or landscape analysis, our team is here to help.
+        - Includes real-time visual data updates.
+        - Generates comprehensive reports with data visualization.
+    - type: image
+      source: assets/img/view.png
+      alt: "View Analysis"
+
+    - type: header
+      content: "Environment Mapping"
+    - type: text
+      content: |
+        **Environment Mapping** is crucial for understanding the spatial layout of your project. Our state-of-the-art tools allow us to map environments accurately, providing detailed models and simulations. This service is ideal for urban planning, construction projects, and environmental assessments.
+        - 3D rendering of spaces for better visualization.
+        - Detailed terrain analysis and modeling.
+        - Interactive virtual tours to explore the mapped areas.
+    - type: image
+      source: assets/img/environment.png
+      alt: "Environment Mapping"
+
+    - type: header
+      content: "Density Estimation"
+    - type: text
+      content: |
+        Our **Density Estimation** service provides accurate measurements of population or object density in various settings. This is particularly useful for urban planners, event organizers, and researchers. Our methods ensure precise estimations and visualizations.
+        - Uses AI-driven algorithms for real-time analysis.
+        - Generates heatmaps for better understanding of density patterns.
+        - Tailored reports to help make informed decisions.
+    - type: image
+      source: assets/img/density.png
+      alt: "Density Estimation"
+
   
   portfolio:
     title: "Portfolio"
