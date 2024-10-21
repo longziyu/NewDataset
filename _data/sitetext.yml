@@ -16,11 +16,11 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-services:
-  title: "Our Services"
-  text: "Discover our comprehensive services tailored to meet your needs."
-  section: services
-  content: "path/to/services.md"  # 指向你的 Markdown 文件
+  services:
+    title: "Our Services"
+    text: "Discover our comprehensive services tailored to meet your needs."
+    section: services
+    content: "https://github.com/longziyu/CrowdVerse/blob/master/_portfolio/project1.md"  # 指向你的 Markdown 文件
   
   portfolio:
     title: "Portfolio"
