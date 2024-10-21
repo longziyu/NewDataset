@@ -15,8 +15,6 @@ en: &DEFAULT_EN
       section: services
     - title: "Portfolio"
       section: portfolio
-    - title: "Benchmark"
-      section: benchmark  
     - title: "About"
       section: about
     - title: "Timeline"
