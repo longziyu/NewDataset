@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "Our Services"
     text: "Discover our comprehensive services tailored to meet your needs."
     section: services
-    content: "https://github.com/longziyu/CrowdVerse/blob/master/_portfolio/project1.md"  # 指向你的 Markdown 文件
+    content: _portfolio/project1.md
   
   portfolio:
     title: "Portfolio"
