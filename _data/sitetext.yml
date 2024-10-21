@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "Our Services"
     text: "Discover our comprehensive services tailored to meet your needs."
     section: services
-    content: _portfolio/project1.md
+    content: "_portfolio/project1.md"
   
   portfolio:
     title: "Portfolio"
