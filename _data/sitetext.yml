@@ -35,13 +35,7 @@ en: &DEFAULT_EN
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    closebutton: "Close Project"
-    
-  benchmark:
-    title: "Benchmark"
-    text: "Our benchmark experiments results."
-    section: benchmark
-    closebutton: "Close Results"
+    closebutton: "Close Project"    
     
   timeline:
     title: "Timeline"
