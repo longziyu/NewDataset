@@ -32,10 +32,6 @@ analytics:
 
 collections:
   portfolio:
-#添加benchmark的部分
-collections:
-  benchmark:
-    output: true
 
 
 markdown: kramdown
@@ -46,3 +42,8 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+
+#添加benchmark的部分
+collections:
+  benchmark:
+    output: true
