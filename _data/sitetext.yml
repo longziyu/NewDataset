@@ -23,13 +23,14 @@ en: &DEFAULT_EN
     list:
       - title: "Camera Perspectives"
         desc: "see more."
-        #icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: assets/img/team/2.jpg
+        
       - title: "Environment"
         desc: "see more."
         icon: assets/img/timeline/1.jpg
       - title: "Crowd density"
         desc: "see more"
-        #icon: fab fa-markdown
+        icon: assets/img/team/2.jpg
               
   portfolio:
     title: "Tasks Enpowered"
