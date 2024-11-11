@@ -21,19 +21,20 @@ en: &DEFAULT_EN
     text: "see more"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Camera Perspectives"
+        desc: "see more."
+        #icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        image: assets/img/timeline/1.jpg
+      - title: "Environment"
+        desc: "see more."
+        #icon: fas fa-laptop
+      - title: "Crowd density"
+        desc: "see more"
+        #icon: fab fa-markdown
               
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Tasks Enpowered"
+    text: "Tasks Supported by CrowdVerse."
     section: portfolio
     closebutton: "Close Project"    
     
