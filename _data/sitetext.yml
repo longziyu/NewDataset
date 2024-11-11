@@ -72,7 +72,7 @@ en: &DEFAULT_EN
   about:
     title: "More Precise Labels"
     #text: "our story"
-    #body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: assets/img/timeline/1.jpg
     section: about
     #image: assets/img/timeline/1.jpg
 
