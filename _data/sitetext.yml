@@ -92,6 +92,9 @@ en: &DEFAULT_EN
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
 
+  contact:
+    title: "Contact Us"
+    
   footer:
     legal: "Privacy Policy"
     
